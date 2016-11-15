@@ -1,0 +1,16 @@
+D:\_WORK\_STEP\LibraryUltimate\LibraryConsole\bin\Debug\LibraryConsole.exe.config
+D:\_WORK\_STEP\LibraryUltimate\LibraryConsole\bin\Debug\LibraryConsole.exe
+D:\_WORK\_STEP\LibraryUltimate\LibraryConsole\bin\Debug\LibraryConsole.pdb
+D:\_WORK\_STEP\LibraryUltimate\LibraryConsole\bin\Debug\LibraryUltimate.exe
+D:\_WORK\_STEP\LibraryUltimate\LibraryConsole\bin\Debug\LibraryUltimate.pdb
+D:\_WORK\_STEP\LibraryUltimate\LibraryConsole\obj\Debug\LibraryConsole.csprojResolveAssemblyReference.cache
+D:\_WORK\_STEP\LibraryUltimate\LibraryConsole\obj\Debug\LibraryConsole.exe
+D:\_WORK\_STEP\LibraryUltimate\LibraryConsole\obj\Debug\LibraryConsole.pdb
+D:\!Paul\LibraryUltimate\LibraryConsole\bin\Debug\LibraryConsole.exe.config
+D:\!Paul\LibraryUltimate\LibraryConsole\bin\Debug\LibraryConsole.exe
+D:\!Paul\LibraryUltimate\LibraryConsole\bin\Debug\LibraryConsole.pdb
+D:\!Paul\LibraryUltimate\LibraryConsole\bin\Debug\LibraryUltimate.exe
+D:\!Paul\LibraryUltimate\LibraryConsole\bin\Debug\LibraryUltimate.pdb
+D:\!Paul\LibraryUltimate\LibraryConsole\obj\Debug\LibraryConsole.csprojResolveAssemblyReference.cache
+D:\!Paul\LibraryUltimate\LibraryConsole\obj\Debug\LibraryConsole.exe
+D:\!Paul\LibraryUltimate\LibraryConsole\obj\Debug\LibraryConsole.pdb
